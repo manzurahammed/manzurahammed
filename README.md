@@ -32,8 +32,8 @@
 <br />
 <br />
 
-<img align="left" alt="manzurahammed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manzurahammed&show_icons=true&theme=radical" />
-<img align="left" alt="manzurahammed's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzurahammed&layout=compact&hide=html" />
+<img align="center" alt="manzurahammed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manzurahammed&show_icons=true&theme=radical" />
+<img align="center" alt="manzurahammed's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzurahammed&layout=compact&hide=html&theme=radical" />
 
 [twitter]: https://twitter.com/TIPUDNT
 [linkedin]: https://linkedin.com/in/manzur-ahammed-56b267102
