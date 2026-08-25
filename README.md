@@ -15,7 +15,7 @@
 | [Bogofy](https://wordpress.org/plugins/bogofy/) | Buy One Get One plugin for WooCommerce (HPOS + Cart/Checkout Blocks compatible) | Author |
 | [Smush](https://wordpress.org/plugins/wp-smushit/) | Image optimization plugin, 1M+ active installs | Senior Engineer |
 | [WooCommerce](https://github.com/woocommerce/woocommerce) | Payments, HPOS migration, Woo Subscriptions, WooCommerce.com | Code Wrangler |
-| [Essential Addons](https://wordpress.org/plugins/essential-addons-for-elementor-lite/) · [BetterDocs](https://wordpress.org/plugins/betterdocs/) · [EmbedPress](https://wordpress.org/plugins/embedpress/) | WordPress plugins used on millions of sites | Team Lead |
+| [Essential Addons](https://wordpress.org/plugins/essential-addons-for-elementor-lite/)  · [EmbedPress](https://wordpress.org/plugins/embedpress/) | WordPress plugins used on millions of sites | Team Lead |
 
 ### 🛠 Languages and Tools
 
